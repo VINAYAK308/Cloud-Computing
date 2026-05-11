@@ -1,4 +1,4 @@
-PROJECT_ID=vinayak-tecob25
+PROJECT_ID=light-truth-496004-t3
 
 gcloud projects add-iam-policy-binding $PROJECT_ID \
   --member="serviceAccount:${PROJECT_ID}@appspot.gserviceaccount.com" \
